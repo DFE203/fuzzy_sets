@@ -1,0 +1,14 @@
+{
+    "fuzzy_sets": {
+        "set1": {
+            "element_1": 0.52,
+            "element_2": 0.42,
+            "element_3": 0.11
+        },
+        "set2": {
+            "element_1": 0.59,
+            "element_2": 0.3,
+            "element_3": 0.13
+        }
+    }
+}
